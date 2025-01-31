@@ -7,7 +7,7 @@ You can use stow or write your own simple sh to create and deploy these dotfiles
 ## Enviroment details
 
 - OS: Debian GNU/Linux 12 (bookworm) x86_64
- - Kernel: 6.11.4-arch2-1
+ - Kernel: 6.1.0-30-amd64
  - Editor : Emacs 29
  - Terminal: Alacritty
  - Shell: ZSH + OMZ
